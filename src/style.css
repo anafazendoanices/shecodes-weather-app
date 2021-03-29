@@ -24,14 +24,20 @@ h3 {
   text-align: center;
 }
 
-.btn.btn-light {
-  font-size: 13px;
-  color: #767676;
-}
-
 form {
   font-size: 15px;
   text-align: right;
+}
+
+#github {
+  display: block;
+  text-align: center;
+  font-size: 8px;
+}
+
+.btn.btn-light {
+  font-size: 13px;
+  color: #767676;
 }
 
 .container {
